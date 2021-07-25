@@ -51,11 +51,11 @@ education:
       university: Carnegie Mellon University
       time: 2020 - 2022
       details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
           - Bullet point
           - Bullet point
     - degree: BSc in Electrical and Computer Engineering
@@ -177,3 +177,4 @@ skills:
 
       - name: Latex
         level: 60%
+
