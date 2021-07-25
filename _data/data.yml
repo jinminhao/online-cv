@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Minhao Jin
-    tagline: Student
+    tagline: SDE Intern@Baidu | MSIN@CMU | BSc@SJTU
     avatar: MinhaoJIN.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,24 +51,23 @@ education:
       university: Carnegie Mellon University
       time: 2020 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Partially selected courses
+          - 14513 Intro to Computer System（cross listed 15-213, 15-513）
+          - 14736 Distributed Systems: Techniques, Infrastructure, and Services
+          - 15619 Cloud Computing（cross listed 15-319）
     - degree: BSc in Electrical and Computer Engineering
       university: Shanghai Jiao Tong University
       time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Partially selected courses
+          - VE280 Programming & Elem. Data Structures
+          - VE281 Data Structures and Algorithms
+          - VE370 Intro to Computer Organization
+          - VE445 Introduction to Machine Learning
+          - VE472 Methods and Tools for Big Data
+          - VE477 Introduction to Algorithms
+          - VE482 Introduction to Operating Systems
+          - VE489 Computer Networks
 experiences:
     - role: Lead Developer
       time: 2015 - Present
