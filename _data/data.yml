@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Minhao Jin
     tagline: Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: MinhaoJIN.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: minhaoj@andrew.cmu.edu
-    phone: 012 345 6789
+    phone: +8618601793019
     website: jinminhao.github.io #do not add http://
-    linkedin: alandoe
+    linkedin: minhao-jin-1328b8164
     github: jinminhao
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -30,20 +30,11 @@ sidebar:
       - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Coding
         link:
 
 career-profile:
@@ -56,9 +47,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Information Networking
+      university: Carnegie Mellon University
+      time: 2020 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,9 +58,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Electrical and Computer Engineering
+      university: Shanghai Jiao Tong University
+      time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
