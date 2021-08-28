@@ -82,28 +82,22 @@ experiences:
           - Implemented TCP and UDP socket communication between server and rk3399 microprocessor
           - Used Robot Operating System (ROS) in rk3399 to control robotic arm
           - Awarded silver award in Capstone Design Expo of UM‑SJTU Joint Institute
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - title: A Fusion of Radio Frequency (RF) and Computer Vision (CV) System for Enhanced Indoor Localization
+      time: Mar. 2019 ‑ Feb. 2020
+      company: Shanghai Jiao Tong University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Innovatively adopted the approach of combining radio frequency with computer vision to make up for the lack of RF positioning accuracy and CV camera flexibility
+          - Used wirelessInsite and USRP to collect RF data in simulated and real environments
+          - Combined methods of KNN and random forest with computer vision feedback, and improve the coarse RF grid positioning accuracy to 100%
+          - Designed a CV positioning algorithm to approximate the accuracy of traditional CV positioning under the circumstance of without using visual calibration to increase the flexibility of the camera
+    - role: "Wireless Communication & AI Laboratory Project: Distributed Machine Learning"
+      time: Mar. 2018 ‑ Dev. 2019
+      company: Shanghai Jiao Tong University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Studied papers related to distributed machine learning especially K‑batch Asynchronous Gradient Descent (ASGD)
+          - Built and tested distributed tensorflow using several Raspberry Pis
+          - Built a distributed machine learning system using socket communication with one PC as parameter server and multiple Raspberry Pis as worker to facilitate subsequent testing
+          - Conducted theoretical calculations on some new optimization methods for k‑batch ASGD
 projects:
     title: Projects
     intro: >
