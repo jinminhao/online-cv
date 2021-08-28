@@ -90,7 +90,7 @@ experiences:
           - Used wirelessInsite and USRP to collect RF data in simulated and real environments
           - Combined methods of KNN and random forest with computer vision feedback, and improve the coarse RF grid positioning accuracy to 100%
           - Designed a CV positioning algorithm to approximate the accuracy of traditional CV positioning under the circumstance of without using visual calibration to increase the flexibility of the camera
-    - role: "Wireless Communication & AI Laboratory Project: Distributed Machine Learning"
+    - title: "Wireless Communication & AI Laboratory Project: Distributed Machine Learning"
       time: Mar. 2018 ‑ Dev. 2019
       company: Shanghai Jiao Tong University
       details: |
