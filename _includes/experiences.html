@@ -16,12 +16,12 @@
 
       <div class="upper-row">
         <h3 class="job-title">{{ experience.title }}</h3>
-        <br class="company">{{ experience.company }}</br>
-        <br class="time">{{ experience.time }}</br>
       </div><!--//upper-row-->
-
-      <!-- <div class="company">{{ experience.company }}</div> -->
-      <!-- <div class="time">{{ experience.time }}</div> -->
+      
+      <div id="main">
+        <div class="company">{{ experience.company }}</div>
+        <div class="time">{{ experience.time }}</div>
+      </div>
     </div><!--//meta-->
 
     {% if experience.details %}
