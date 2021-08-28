@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Minhao Jin
-    tagline: SDE Intern@Baidu | MSIN@CMU | BSc@SJTU
+    tagline: MSIN@CMU | SDE Extern@Baidu | BSc@SJTU
     avatar: MinhaoJIN.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: minhaoj@andrew.cmu.edu
-    phone: +8618601793019
+    phone: (412)330-9890 (US), +8618601793019 (internantional)
     website: jinminhao.github.io #do not add http://
     linkedin: minhao-jin-1328b8164
     github: jinminhao
@@ -69,21 +69,16 @@ education:
           - VE482 Introduction to Operating Systems
           - VE489 Computer Networks
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant and Thesis Group Leader
+      time: July 2019 ‑ Dec. 2019
+      company: Shanghai Jiao Tong University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Applied LSTM to the key points extraction to reach 82% accuracy on hand pose estimation
+          - Designed and implemented algorithm on detecting and distinguishing hand states
+          - Used OpenPose to detect human arm and hand and transferred the key points info to robotic arm and VR
+          - Implemented TCP and UDP socket communication between server and rk3399 microprocessor
+          - Used Robot Operating System (ROS) in rk3399 to control robotic arm
+          - Awarded silver award in Capstone Design Expo of UM‑SJTU Joint Institute
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
