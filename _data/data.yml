@@ -69,6 +69,26 @@ education:
           - VE482 Introduction to Operating Systems
           - VE489 Computer Networks
 experiences:
+    - title: Software Engineer Intern at PaddlePaddle, Baidu Inc
+      time: May. 2021 ‑ Aug. 2021
+      company: Baidu, Inc.
+      details: |
+          - Integrated PaddlePaddle and mlflow
+            - Implemented model serialization, model save, load, export and autolog
+            - Finished unit tests
+            - Added examples on using PaddlePaddle with mlflow
+          - Continued on ElasticServing
+            - Supported health check for better QoS
+            - Added canary features for A/B test or blue-green deployment
+          - Implemented GPU Vmemory solution for Paddlepaddle
+          - Finished paddle-lite-service-demo which is to run paddle-lite service on raspberry pi
+    - title: Software Engineer Intern at PaddlePaddle, Baidu Inc
+      time: Nov. 2020 ‑ Jan. 2021
+      company: Baidu, Inc.
+      details: |
+          - Scafolded ElasticServing using KubeBuilder working on Kubernetes
+          - Added knative serving with istio for serverless service
+          - Supported auto-scaling and cold start to guarantee service elasticity
     - title: | 
         "Thesis Project: RGB Video‑Based Hand Action Quality
         Assessment in Real Time and
