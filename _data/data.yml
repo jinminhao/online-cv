@@ -148,25 +148,34 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Towards a data‑driven method for RGB video‑based hand action quality assessment in real time
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Tianyu Wang, Minhao Jin, Jingying Wang, Yijie Wang, and Mian Li
+        conference: the 35th Annual ACM Symposium on Applied Computing (SAC ’20)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+honors:
+    - title: Outstanding Graduates
+      time: 2019
+      company: Shanghai Jiao Tong University
+    - title: Silver Award of Capstone
+      time: 2019
+      company: UM‑SJTU Joint Institute, Shanghai Jiao Tong University
+    - title: National Scholarship
+      time: 2019
+      company: Ministry of Education
+    - title: First Prize
+      time: 2019
+      company: VEX Robot Asian Open
+    - title: Second Prize
+      time: 2018
+      company: 2018 VEX China Championship
+    - title: First Prize
+      time: 2018
+      company: SJTU VEX Robotic Campus Competition
+    - title: Dean’s List
+      time: 2017
+      company: UM‑SJTU Joint Institute, Shanghai Jiao Tong University
 
 skills:
     title: Skills &amp; Proficiency
