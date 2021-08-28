@@ -77,18 +77,24 @@ experiences:
             - Implemented model serialization, model save, load, export and autolog
             - Finished unit tests
             - Added examples on using PaddlePaddle with mlflow
+            - url: https://github.com/mlflow/mlflow
           - Continued on ElasticServing
             - Supported health check for better QoS
             - Added canary features for A/B test or blue-green deployment
+            - url: https://github.com/PaddleFlow/ElasticServing
           - Implemented GPU Vmemory solution for Paddlepaddle
+            - url: https://github.com/PaddleFlow/paddle-gpu-vmem
           - Finished paddle-lite-service-demo which is to run paddle-lite service on raspberry pi
+            - url: https://github.com/jinminhao/paddle-lite-service-demo
     - title: Software Engineer Intern at PaddlePaddle, Baidu Inc
       time: Nov. 2020 ‑ Jan. 2021
       company: Baidu, Inc.
       details: |
-          - Scafolded ElasticServing using KubeBuilder working on Kubernetes
-          - Added knative serving with istio for serverless service
-          - Supported auto-scaling and cold start to guarantee service elasticity
+          - Worked on PaddleFlow/ElasticServing, Elastic Serverless Serving based on Kubernetes, provides 0 instance serving capability.
+            - Scafolded ElasticServing using KubeBuilder working on Kubernetes
+            - Added knative serving with istio for serverless service
+            - Supported auto-scaling and cold start to guarantee service elasticity
+            - url: https://github.com/PaddleFlow/ElasticServing
     - title: | 
         "Thesis Project: RGB Video‑Based Hand Action Quality
         Assessment in Real Time and
