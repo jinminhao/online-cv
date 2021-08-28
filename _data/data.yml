@@ -70,9 +70,9 @@ education:
           - VE489 Computer Networks
 experiences:
     - title: | 
-        RGB Video‑Based Hand Action Quality
+        "Thesis Project: RGB Video‑Based Hand Action Quality
         Assessment in Real Time and
-        VR‑Enabled Gesture Control of Robotic Arm
+        VR‑Enabled Gesture Control of Robotic Arm"
       time: July 2019 ‑ Dec. 2019
       company: Shanghai Jiao Tong University
       details: |
@@ -82,7 +82,7 @@ experiences:
           - Implemented TCP and UDP socket communication between server and rk3399 microprocessor
           - Used Robot Operating System (ROS) in rk3399 to control robotic arm
           - Awarded silver award in Capstone Design Expo of UM‑SJTU Joint Institute
-    - title: A Fusion of Radio Frequency (RF) and Computer Vision (CV) System for Enhanced Indoor Localization
+    - title: "Undergraduate Innovative Research Project: A Fusion of Radio Frequency (RF) and Computer Vision (CV) System for Enhanced Indoor Localization"
       time: Mar. 2019 ‑ Feb. 2020
       company: Shanghai Jiao Tong University
       details: |
@@ -99,31 +99,15 @@ experiences:
           - Built a distributed machine learning system using socket communication with one PC as parameter server and multiple Raspberry Pis as worker to facilitate subsequent testing
           - Conducted theoretical calculations on some new optimization methods for k‑batch ASGD
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: | 
+        VEX Robot Competition
+      time: Apr. 2018 – Feb. 2019
+      company: VEX
+      details: |
+          - Completed the wiring of the robot
+          - Accomplished the program design of the robot
+          - Tested the performance differences of the robot in PROS and in VEX studio
+          - Awarded the First Prize in Asian Open and Second Prize in the National Competition
 
 publications:
     title: Publications
