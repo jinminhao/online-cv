@@ -50,128 +50,28 @@ education:
     - degree: MSc in Information Networking
       university: Carnegie Mellon University
       time: 2020 - 2022
-      details: |
-        Partially selected courses
-          - 14513 Intro to Computer System（cross listed 15-213, 15-513）
-          - 14736 Distributed Systems: Techniques, Infrastructure, and Services
-          - 15619 Cloud Computing（cross listed 15-319）
     - degree: BSc in Electrical and Computer Engineering
       university: Shanghai Jiao Tong University
       time: 2016 - 2020
-      details: |
-        Partially selected courses
-          - VE280 Programming & Elem. Data Structures
-          - VE281 Data Structures and Algorithms
-          - VE370 Intro to Computer Organization
-          - VE445 Introduction to Machine Learning
-          - VE472 Methods and Tools for Big Data
-          - VE477 Introduction to Algorithms
-          - VE482 Introduction to Operating Systems
-          - VE489 Computer Networks
 experiences:
     - title: Software Engineer Intern at PaddlePaddle, Baidu Inc
       time: May. 2021 ‑ Aug. 2021
       company: Baidu, Inc.
-      details: |
-          - Integrated PaddlePaddle and mlflow
-            - Implemented model serialization, model save, load, export and autolog
-            - Finished unit tests
-            - Added examples on using PaddlePaddle with mlflow
-            - url: https://github.com/mlflow/mlflow
-          - Continued on ElasticServing
-            - Supported health check for better QoS
-            - Added canary features for A/B test or blue-green deployment
-            - url: https://github.com/PaddleFlow/ElasticServing
-          - Implemented GPU Vmemory solution for Paddlepaddle
-            - url: https://github.com/PaddleFlow/paddle-gpu-vmem
-          - Finished paddle-lite-service-demo which is to run paddle-lite service on raspberry pi
-            - url: https://github.com/jinminhao/paddle-lite-service-demo
     - title: Software Engineer Intern at PaddlePaddle, Baidu Inc
       time: Nov. 2020 ‑ Jan. 2021
       company: Baidu, Inc.
-      details: |
-          - Worked on PaddleFlow/ElasticServing, Elastic Serverless Serving based on Kubernetes, provides 0 instance serving capability.
-            - Scafolded ElasticServing using KubeBuilder working on Kubernetes
-            - Added knative serving with istio for serverless service
-            - Supported auto-scaling and cold start to guarantee service elasticity
-            - url: https://github.com/PaddleFlow/ElasticServing
     - title: | 
         "Thesis Project: RGB Video‑Based Hand Action Quality
         Assessment in Real Time and
         VR‑Enabled Gesture Control of Robotic Arm"
       time: July 2019 ‑ Dec. 2019
       company: Shanghai Jiao Tong University
-      details: |
-          - Applied LSTM to the key points extraction to reach 82% accuracy on hand pose estimation
-          - Designed and implemented algorithm on detecting and distinguishing hand states
-          - Used OpenPose to detect human arm and hand and transferred the key points info to robotic arm and VR
-          - Implemented TCP and UDP socket communication between server and rk3399 microprocessor
-          - Used Robot Operating System (ROS) in rk3399 to control robotic arm
-          - Awarded silver award in Capstone Design Expo of UM‑SJTU Joint Institute
     - title: "Undergraduate Innovative Research Project: A Fusion of Radio Frequency (RF) and Computer Vision (CV) System for Enhanced Indoor Localization"
       time: Mar. 2019 ‑ Feb. 2020
       company: Shanghai Jiao Tong University
-      details: |
-          - Innovatively adopted the approach of combining radio frequency with computer vision to make up for the lack of RF positioning accuracy and CV camera flexibility
-          - Used wirelessInsite and USRP to collect RF data in simulated and real environments
-          - Combined methods of KNN and random forest with computer vision feedback, and improve the coarse RF grid positioning accuracy to 100%
-          - Designed a CV positioning algorithm to approximate the accuracy of traditional CV positioning under the circumstance of without using visual calibration to increase the flexibility of the camera
     - title: "Wireless Communication & AI Laboratory Project: Distributed Machine Learning"
       time: Mar. 2018 ‑ Dev. 2019
       company: Shanghai Jiao Tong University
-      details: |
-          - Studied papers related to distributed machine learning especially K‑batch Asynchronous Gradient Descent (ASGD)
-          - Built and tested distributed tensorflow using several Raspberry Pis
-          - Built a distributed machine learning system using socket communication with one PC as parameter server and multiple Raspberry Pis as worker to facilitate subsequent testing
-          - Conducted theoretical calculations on some new optimization methods for k‑batch ASGD
-projects:
-    - title: | 
-        VEX Robot Competition
-      time: Apr. 2018 – Feb. 2019
-      company: VEX
-      details: |
-          - Completed the wiring of the robot
-          - Accomplished the program design of the robot
-          - Tested the performance differences of the robot in PROS and in VEX studio
-          - Awarded the First Prize in Asian Open and Second Prize in the National Competition
-    - title: | 
-        Big Data Analysis on Million Songs Dataset
-      time: May 2019 – July 2019
-      company: VE472 Methods and Tools for Big Data
-      details: |
-          - Conducted breadth first search on MapReduce in Hadoop to test similarity between two songs
-          - Utilized drill to find some songs satisfying some specific requirements
-          - Completed upsampling and random forest to predict the genre of songs
-    - title: | 
-        Kernel Scheduling in Minix 3.1.6
-      time: Nov. 2018 – Sept. 2018
-      company: VE482 Introduction to Operating Systems
-      details: |
-          - Accomplished lottery scheduling and earliest deadline first scheduling in kernel mode
-          - Implemented boot parameter to choose which scheduling is running when booting
-    - title: | 
-        Multi‑threaded Database
-      time: Oct. 2018 – Nov. 2018
-      company: VE482 Introduction to Operating Systems
-      details: |
-          - Completed a simple and single‑threaded database
-          - Implemented multi‑threaded version using two multi‑threaded strategies, one is to ask different thread to operate on different queries and another is to ask several threads work on one query together
-          - Studied the pros and cons of these two multi‑threaded strategies
-    - title: | 
-        CPU Design Supporting Hazard Detection and Stall
-      time: Oct. 2018 – Nov. 2018
-      company: VE370 Intro to Computer Organization
-      details: |
-          - Implemented a single cycle CPU supporting memory‑reference, arithmetic‑logical and jumping instructions in FPGA board
-          - Perfected a pipeline CPU based on the previous one with five stages supporting hazard detection and stall
-    - title: | 
-        Simple Shell
-      time: Oct. 2018 – Nov. 2018
-      company: VE482 Introduction to Operating Systems
-      details: |
-          - Wrote a shell in C supporting simple external and built‑in commands
-          - Added more functions supporting I/O redirection, pipes, CTRL‑D, CTRL‑C, quotes and background
-
 publications:
     title: Publications
     papers:
