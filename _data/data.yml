@@ -47,6 +47,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
+    - degree: PhD in Electrical and Computer Engineering
+      university: Princeton University
+      time: 2023 - 2028(expected)
     - degree: MSc in Information Networking
       university: Carnegie Mellon University
       time: 2020 - 2022
@@ -54,31 +57,30 @@ education:
       university: Shanghai Jiao Tong University
       time: 2016 - 2020
 experiences:
-    - title: Software Engineer Intern at PaddlePaddle, Baidu Inc
+    - title: Machine Learning Engineer
+      time: Jan. 2023 - July 2023
+      company: Rockfish Data
+    - title: Software Engineer Intern at PaddlePaddle
       time: May. 2021 ‑ Aug. 2021
       company: Baidu, Inc.
-    - title: Software Engineer Intern at PaddlePaddle, Baidu Inc
+    - title: Software Engineer Intern at PaddlePaddle
       time: Nov. 2020 ‑ Jan. 2021
       company: Baidu, Inc.
-    - title: | 
-        "Thesis Project: RGB Video‑Based Hand Action Quality
-        Assessment in Real Time and
-        VR‑Enabled Gesture Control of Robotic Arm"
-      time: July 2019 ‑ Dec. 2019
-      company: Shanghai Jiao Tong University
-    - title: "Undergraduate Innovative Research Project: A Fusion of Radio Frequency (RF) and Computer Vision (CV) System for Enhanced Indoor Localization"
-      time: Mar. 2019 ‑ Feb. 2020
-      company: Shanghai Jiao Tong University
-    - title: "Wireless Communication & AI Laboratory Project: Distributed Machine Learning"
-      time: Mar. 2018 ‑ Dev. 2019
-      company: Shanghai Jiao Tong University
 publications:
     title: Publications
     papers:
+      - title: Practical gan-based synthetic ip header trace generation using netshare
+        link: "#"
+        authors: Yucheng Yin, Zinan Lin, Minhao Jin, Giulia Fanti and Vyas Sekar
+        conference: ACM SIGCOMM 2022
+      - title: Towards accurate and interpretable surgical skill assessment":" a video-based method for skill score prediction and guiding feedback generation
+        link: "#"
+        authors: Tianyu Wang, Minhao Jin and Mian Li
+        conference: International Journal of Computer Assisted Radiology and Surgery
       - title: Towards a data‑driven method for RGB video‑based hand action quality assessment in real time
         link: "#"
         authors: Tianyu Wang, Minhao Jin, Jingying Wang, Yijie Wang, and Mian Li
-        conference: the 35th Annual ACM Symposium on Applied Computing (SAC ’20)
+        conference: The 35th Annual ACM Symposium on Applied Computing (SAC ’20)
 
 honors:
     - title: Outstanding Graduates
