@@ -203,25 +203,3 @@ honors:
       time: 2017
       company: UM‑SJTU Joint Institute, Shanghai Jiao Tong University
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: C
-        level: 98%
-
-      - name: C++
-        level: 98%
-
-      - name: Python
-        level: 98%
-
-      - name: Golang
-        level: 95%
-
-      - name: Java
-        level: 85%
-
-      - name: Latex
-        level: 60%
-
